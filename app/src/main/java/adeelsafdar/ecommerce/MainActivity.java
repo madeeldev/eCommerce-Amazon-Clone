@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         mJoinNowButton = (Button) findViewById(R.id.main_join_now_btn);
         mLoginButton = (Button) findViewById(R.id.main_login_btn);
-        
+
 
     }
 }
