@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='eCommerce'
+rootProject.name='MADProject'

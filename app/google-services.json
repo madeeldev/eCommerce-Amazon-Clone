@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "312639033226",
-    "firebase_url": "https://ecommerce-5b07d.firebaseio.com",
-    "project_id": "ecommerce-5b07d",
-    "storage_bucket": "ecommerce-5b07d.appspot.com"
+    "project_number": "1049406770041",
+    "firebase_url": "https://madproject-c066a.firebaseio.com",
+    "project_id": "madproject-c066a",
+    "storage_bucket": "madproject-c066a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:312639033226:android:d9162c8ad3dc4be3cf0273",
+        "mobilesdk_app_id": "1:1049406770041:android:a7eb5b2a35ded0e395fda8",
         "android_client_info": {
-          "package_name": "adeelsafdar.ecommerce"
+          "package_name": "adeelsafdar.madproject"
         }
       },
       "oauth_client": [
         {
-          "client_id": "312639033226-lhj9562f7fqc6ccejtoptllt83fk1ehm.apps.googleusercontent.com",
+          "client_id": "1049406770041-jjrdsa3g3cps7dltmsgckev551b1jseg.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "adeelsafdar.ecommerce",
+            "package_name": "adeelsafdar.madproject",
             "certificate_hash": "96c920438f81e0199354185c30f7ad7659370145"
           }
         },
         {
-          "client_id": "312639033226-cj2f53hggfhcac6707kumt2erj97fk3g.apps.googleusercontent.com",
+          "client_id": "1049406770041-p7qonarra66vh7r3c7g16va9kvkpkjd8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCaAps7_bZmkoHf_mGXIOzK425uej7k3Xo"
+          "current_key": "AIzaSyCUSgZbNmj5og4Au5yhfUaMKd7odSkePnI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "312639033226-cj2f53hggfhcac6707kumt2erj97fk3g.apps.googleusercontent.com",
+              "client_id": "1049406770041-p7qonarra66vh7r3c7g16va9kvkpkjd8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
